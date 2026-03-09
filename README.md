@@ -1,7 +1,7 @@
 # RegretIQ — Purchase Regret & Return Behavior Intelligence
 
-> **Simulated Startup Project | RetailPulse Analytics**
-> Built by: Chinu (BI Analyst) | Environment: Startup Team Simulation
+> **RetailPulse Analytics**
+> Built by: Shailli Mahajan
 
 ---
 
@@ -39,7 +39,7 @@ This project is built in a simulated startup environment (RetailPulse Analytics)
 
 ---
 
-## 🗺️ Project Sprint Plan
+## Project Sprint Plan
 
 | Sprint | Focus | Tools |
 |---|---|---|
