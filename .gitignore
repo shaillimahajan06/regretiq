@@ -1,0 +1,6 @@
+data/raw/
+*.csv
+*.pdix
+*.twbx
+__pycache__/
+ipnyb_checkpoints/
